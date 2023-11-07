@@ -1,8 +1,5 @@
----
 
-**Safonov Nikolay**
-
----
+## Safonov Nikolay
 
 ## Contacts:
 
